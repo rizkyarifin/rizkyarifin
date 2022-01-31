@@ -2,6 +2,8 @@
 
 🚀 I'm a Software Developer focus on Android development with Kotlin, i also interested about cloud and server.
 
+👀 You can see further about me on my personal site [homepage](https://rizkyarifin.vercel.app/)
+
 💌 Feel free to contact me directly 
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-rizky-arifin-409326161/" target="_blank" style='margin-right:10px'>
