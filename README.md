@@ -1,16 +1,13 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**rizkyarifin/rizkyarifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Software Developer focus on Android development with Kotlin, i also interested about cloud and server.
+💌 Feel free to contact me directly 
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-rizky-arifin-409326161/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rizky.arifin00@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
