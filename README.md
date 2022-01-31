@@ -1,6 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 🚀 I'm a Software Developer focus on Android development with Kotlin, i also interested about cloud and server.
+
 💌 Feel free to contact me directly 
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-rizky-arifin-409326161/" target="_blank" style='margin-right:10px'>
