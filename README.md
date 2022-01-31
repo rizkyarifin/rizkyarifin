@@ -2,6 +2,8 @@
 
 🚀 I'm a Software Developer focus on Android development with Kotlin, i also interested about Cloud and Server.
 
+🔭 I’m currently working at Software Development Company and being Android Developer Freelance.
+
 👀 You can see further about me on my personal site [homepage](https://rizkyarifin.vercel.app/)
 
 💌 Feel free to contact me directly 
